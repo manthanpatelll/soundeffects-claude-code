@@ -1,0 +1,12 @@
+[project]
+name = "sfx-engine"
+version = "1.0.0"
+description = "SFX track builder for Claude Code soundeffects skill"
+requires-python = ">=3.10"
+dependencies = [
+    "openai-whisper",
+    "pydub",
+]
+
+[tool.uv]
+dev-dependencies = []

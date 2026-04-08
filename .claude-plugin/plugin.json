@@ -1,0 +1,11 @@
+{
+  "name": "soundeffects",
+  "description": "Generate perfectly timed SFX audio tracks for videos using Whisper transcription and contextual sound mapping. Invoke with /soundeffects:soundeffects <video-path>.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Manthan Patel",
+    "url": "https://github.com/manthanpatelll"
+  },
+  "repository": "https://github.com/manthanpatelll/soundeffects-claude-code",
+  "license": "MIT"
+}
