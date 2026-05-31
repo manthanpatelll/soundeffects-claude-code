@@ -1,6 +1,14 @@
-# /soundeffects -- Claude Code Plugin
+# 🔊 /soundeffects — Claude Code Plugin
+
+**By Manthan Patel (@LeadGenMan)**
+
+🔗 [LinkedIn](https://www.linkedin.com/in/leadgenmanthan/) • 📸 [Instagram](https://www.instagram.com/leadgenman/) • 🎥 [YouTube](https://www.youtube.com/@LeadGenMan) • 🎵 [TikTok](https://www.tiktok.com/@leadgenmanthan) • 🎓 [Skool Community](https://www.skool.com/ai-inner-circle/about) • 🎬 [TiltIt](https://tiltit.video) • ✏️ [PenAnywhere](https://apps.apple.com/us/app/penanywhere/id6760774183) • 🗣️ [Impromptly AI](https://impromptly.ai/)
+
+* * *
 
 Generate perfectly timed SFX audio tracks for your videos. Give it a video file, and it transcribes your speech with Whisper, maps contextual sound effects to key moments, and outputs a single WAV track you can drag into Descript, Premiere, or any editor.
+
+> Want the full video pipeline? Six more skills (rough cut, captions, YouTube descriptions, Instagram captions, reel overlays, content series) live in **[leadgenman-video-skills](https://github.com/manthanpatelll/leadgenman-video-skills)**.
 
 ## What it does
 
