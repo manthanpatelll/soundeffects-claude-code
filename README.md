@@ -75,6 +75,21 @@ That's it. Claude handles the rest -- transcription, SFX mapping, track generati
 
 A single WAV file named `[Your Video] - SFX Track.wav` in the same directory as your video. Drag it into your editor as an upper audio layer.
 
+## 🔗 Connect with me
+
+* Instagram: https://www.instagram.com/leadgenman/
+* LinkedIn: https://www.linkedin.com/in/leadgenmanthan/
+* Facebook: https://www.facebook.com/leadgenman/
+* TikTok: https://www.tiktok.com/@leadgenmanthan
+* YouTube: https://www.youtube.com/@LeadGenMan
+* Community: https://www.skool.com/ai-inner-circle/about
+
+## 🛠️ My products
+
+* TiltIt: https://www.tiltit.video
+* PenAnywhere: https://apps.apple.com/app/penanywhere/id6760774183
+* Impromptly AI: https://impromptly.ai/
+
 ## License
 
 MIT
